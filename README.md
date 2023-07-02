@@ -1,4 +1,4 @@
-# plague-tdp
+# Plague-tdp
 Proyecto Shooter Vertical TDP
 
 En la barra superior se encuentra una barra donde se indica la carga viral del jugador, tres botones con pociones de curacion y un label que indica el nivel actual.
